@@ -1,0 +1,116 @@
+---
+object: card
+id: 39e177ce-98bf-4fbc-83d1-1f64ca5d86c6
+oracle_id: cd8bab2c-b04f-43a2-9786-df5f7411bf16
+multiverse_ids:
+- 74443
+mtgo_id: 21807
+mtgo_foil_id: 21808
+tcgplayer_id: 12290
+cardmarket_id: 12848
+name: Kaijin of the Vanishing Touch
+lang: en
+released_at: '2005-02-04'
+uri: https://api.scryfall.com/cards/39e177ce-98bf-4fbc-83d1-1f64ca5d86c6
+scryfall_uri: https://scryfall.com/card/bok/39/kaijin-of-the-vanishing-touch?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/3/9/39e177ce-98bf-4fbc-83d1-1f64ca5d86c6.jpg?1562876494
+  normal: https://cards.scryfall.io/normal/front/3/9/39e177ce-98bf-4fbc-83d1-1f64ca5d86c6.jpg?1562876494
+  large: https://cards.scryfall.io/large/front/3/9/39e177ce-98bf-4fbc-83d1-1f64ca5d86c6.jpg?1562876494
+  png: https://cards.scryfall.io/png/front/3/9/39e177ce-98bf-4fbc-83d1-1f64ca5d86c6.png?1562876494
+  art_crop: https://cards.scryfall.io/art_crop/front/3/9/39e177ce-98bf-4fbc-83d1-1f64ca5d86c6.jpg?1562876494
+  border_crop: https://cards.scryfall.io/border_crop/front/3/9/39e177ce-98bf-4fbc-83d1-1f64ca5d86c6.jpg?1562876494
+mana_cost: "{1}{U}"
+cmc: 2.0
+type_line: Creature — Spirit
+oracle_text: |-
+  Defender (This creature can't attack.)
+  Whenever Kaijin of the Vanishing Touch blocks a creature, return that creature to its owner's hand at end of combat. (Return it only if it's on the battlefield.)
+power: '0'
+toughness: '3'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Defender
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: d4b88587-a1f5-4b47-9e24-78ec9e57bd0e
+set: bok
+set_name: Betrayers of Kamigawa
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/d4b88587-a1f5-4b47-9e24-78ec9e57bd0e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Abok&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/bok?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/39e177ce-98bf-4fbc-83d1-1f64ca5d86c6/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acd8bab2c-b04f-43a2-9786-df5f7411bf16&unique=prints
+collector_number: '39'
+digital: false
+rarity: uncommon
+flavor_text: When it's finished, all that's left of you is a ripple on a still pond.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Randy Gallegos
+artist_ids:
+- a5048cc7-438a-4378-98e4-da99b78e1db0
+illustration_id: 83468d4b-9dfe-4262-812e-64a0d8bbd570
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 17158
+penny_rank: 10080
+prices:
+  usd: '0.24'
+  usd_foil: '1.40'
+  usd_etched: 
+  eur: '0.11'
+  eur_foil: '0.80'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74443
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Kaijin+of+the+Vanishing+Touch&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Kaijin+of+the+Vanishing+Touch&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Kaijin+of+the+Vanishing+Touch
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/12290?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Kaijin+of+the+Vanishing+Touch&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/21807?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,115 @@
+---
+object: card
+id: 18325283-ace8-414b-bf48-2ed36b5a9c24
+oracle_id: 38dd86a2-652c-42b7-9b21-2fad059cc706
+multiverse_ids:
+- 74109
+mtgo_id: 21673
+mtgo_foil_id: 21674
+tcgplayer_id: 12325
+cardmarket_id: 12883
+name: Patron of the Akki
+lang: en
+released_at: '2005-02-04'
+uri: https://api.scryfall.com/cards/18325283-ace8-414b-bf48-2ed36b5a9c24
+scryfall_uri: https://scryfall.com/card/bok/115/patron-of-the-akki?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/8/18325283-ace8-414b-bf48-2ed36b5a9c24.jpg?1562875682
+  normal: https://cards.scryfall.io/normal/front/1/8/18325283-ace8-414b-bf48-2ed36b5a9c24.jpg?1562875682
+  large: https://cards.scryfall.io/large/front/1/8/18325283-ace8-414b-bf48-2ed36b5a9c24.jpg?1562875682
+  png: https://cards.scryfall.io/png/front/1/8/18325283-ace8-414b-bf48-2ed36b5a9c24.png?1562875682
+  art_crop: https://cards.scryfall.io/art_crop/front/1/8/18325283-ace8-414b-bf48-2ed36b5a9c24.jpg?1562875682
+  border_crop: https://cards.scryfall.io/border_crop/front/1/8/18325283-ace8-414b-bf48-2ed36b5a9c24.jpg?1562875682
+mana_cost: "{4}{R}{R}"
+cmc: 6.0
+type_line: Legendary Creature — Spirit
+oracle_text: |-
+  Goblin offering (You may cast this card any time you could cast an instant by sacrificing a Goblin and paying the difference in mana costs between this and the sacrificed Goblin. Mana cost includes color.)
+  Whenever Patron of the Akki attacks, creatures you control get +2/+0 until end of turn.
+power: '5'
+toughness: '5'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Offering
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: d4b88587-a1f5-4b47-9e24-78ec9e57bd0e
+set: bok
+set_name: Betrayers of Kamigawa
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/d4b88587-a1f5-4b47-9e24-78ec9e57bd0e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Abok&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/bok?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/18325283-ace8-414b-bf48-2ed36b5a9c24/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A38dd86a2-652c-42b7-9b21-2fad059cc706&unique=prints
+collector_number: '115'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jim Nelson
+artist_ids:
+- aa9f64d1-29e1-4c82-877e-44c18183f40b
+illustration_id: c636f190-0e09-4549-9a18-91a76e217fe4
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 17436
+penny_rank: 8504
+prices:
+  usd: '0.36'
+  usd_foil: '1.43'
+  usd_etched: 
+  eur: '0.21'
+  eur_foil: '1.25'
+  tix: '0.01'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74109
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Patron+of+the+Akki&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Patron+of+the+Akki&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Patron+of+the+Akki
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/12325?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Patron+of+the+Akki&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/21673?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

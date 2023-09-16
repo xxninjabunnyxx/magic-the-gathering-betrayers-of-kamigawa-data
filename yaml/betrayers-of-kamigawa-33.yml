@@ -1,0 +1,112 @@
+---
+object: card
+id: 15589745-4c0a-4edf-ad45-3b7fa45e70c5
+oracle_id: 2912d93d-ed51-41ef-b64f-3cb6581c09e5
+multiverse_ids:
+- 74128
+mtgo_id: 21685
+mtgo_foil_id: 21686
+tcgplayer_id: 12249
+cardmarket_id: 12807
+name: Disrupting Shoal
+lang: en
+released_at: '2005-02-04'
+uri: https://api.scryfall.com/cards/15589745-4c0a-4edf-ad45-3b7fa45e70c5
+scryfall_uri: https://scryfall.com/card/bok/33/disrupting-shoal?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/5/15589745-4c0a-4edf-ad45-3b7fa45e70c5.jpg?1562875608
+  normal: https://cards.scryfall.io/normal/front/1/5/15589745-4c0a-4edf-ad45-3b7fa45e70c5.jpg?1562875608
+  large: https://cards.scryfall.io/large/front/1/5/15589745-4c0a-4edf-ad45-3b7fa45e70c5.jpg?1562875608
+  png: https://cards.scryfall.io/png/front/1/5/15589745-4c0a-4edf-ad45-3b7fa45e70c5.png?1562875608
+  art_crop: https://cards.scryfall.io/art_crop/front/1/5/15589745-4c0a-4edf-ad45-3b7fa45e70c5.jpg?1562875608
+  border_crop: https://cards.scryfall.io/border_crop/front/1/5/15589745-4c0a-4edf-ad45-3b7fa45e70c5.jpg?1562875608
+mana_cost: "{X}{U}{U}"
+cmc: 2.0
+type_line: Instant — Arcane
+oracle_text: |-
+  You may exile a blue card with mana value X from your hand rather than pay this spell's mana cost.
+  Counter target spell if its mana value is X.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: d4b88587-a1f5-4b47-9e24-78ec9e57bd0e
+set: bok
+set_name: Betrayers of Kamigawa
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/d4b88587-a1f5-4b47-9e24-78ec9e57bd0e
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Abok&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/bok?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/15589745-4c0a-4edf-ad45-3b7fa45e70c5/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2912d93d-ed51-41ef-b64f-3cb6581c09e5&unique=prints
+collector_number: '33'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Scott M. Fischer
+artist_ids:
+- 23b0cf43-3e43-44c6-8329-96446eca5bce
+illustration_id: 6615c37c-f403-419f-97c4-fda6b6a9843b
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 11987
+penny_rank: 135
+prices:
+  usd: '0.95'
+  usd_foil: '8.09'
+  usd_etched: 
+  eur: '0.43'
+  eur_foil: '3.98'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74128
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Disrupting+Shoal&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Disrupting+Shoal&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Disrupting+Shoal
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/12249?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Disrupting+Shoal&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/21685?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

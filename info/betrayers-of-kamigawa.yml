@@ -1,0 +1,21 @@
+---
+object: set
+id: d4b88587-a1f5-4b47-9e24-78ec9e57bd0e
+code: bok
+mtgo_code: bok
+arena_code: bok
+tcgplayer_id: 18
+name: Betrayers of Kamigawa
+uri: https://api.scryfall.com/sets/d4b88587-a1f5-4b47-9e24-78ec9e57bd0e
+scryfall_uri: https://scryfall.com/sets/bok
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Abok&unique=prints
+released_at: '2005-02-04'
+set_type: expansion
+card_count: 165
+printed_size: 165
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: chk
+block: Kamigawa
+icon_svg_uri: https://svgs.scryfall.io/sets/bok.svg?1694404800
